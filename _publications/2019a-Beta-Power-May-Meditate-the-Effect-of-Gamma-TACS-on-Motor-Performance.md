@@ -7,7 +7,7 @@ venue: '41st Annual International Conference of the IEEE Engineering in Medicine
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8856416'
 ---
 
-[Download paper here](https://ei.is.tuebingen.mpg.de/uploads_file/attachment/attachment/515/1905.00319.pdf)
+[PDF](https://ei.is.tuebingen.mpg.de/uploads_file/attachment/attachment/515/1905.00319.pdf)
 
 Recommended citation:  
 ```javascript
