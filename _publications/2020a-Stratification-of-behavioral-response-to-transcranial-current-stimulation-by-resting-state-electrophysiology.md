@@ -7,7 +7,7 @@ venue: 'bioRxiv'
 paperurl: 'https://www.biorxiv.org/content/10.1101/2020.01.27.921668v3'
 ---
 
-[Download paper here](https://www.biorxiv.org/content/10.1101/2020.01.27.921668v3.full.pdf)
+[PDF](https://www.biorxiv.org/content/10.1101/2020.01.27.921668v3.full.pdf)
 
 Recommended citation:  
 ```Javascript
