@@ -2,7 +2,7 @@
 title: "Selecting causal brain features with a single conditional independence test per feature"
 collection: publications
 permalink: /publication/2019b-Selecting-causal-brain-features-with-a-single-conditional-independence-test-per-feature
-date: 2019
+date: '2019'
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://proceedings.neurips.cc/paper/2019/hash/e6be4c22a5963ab00dfe8f3b695b5332-Abstract.html'
 ---
