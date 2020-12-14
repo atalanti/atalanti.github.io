@@ -43,7 +43,7 @@ staticman:
   transforms:
     email                : "md5"
   generatedFields:
-    date:
+    year:
       type               : "YYYY"
       options:
         format           : "" #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
