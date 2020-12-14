@@ -6,7 +6,7 @@ year: '2017'
 venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Alberta, Canada'
 paperurl: 'https://ieeexplore.ieee.org/document/8123089'
 ---
-[Download paper here](https://www.is.mpg.de/uploads_file/attachment/attachment/407/Atalanti_Mastakouri_final_submission_after_reviews_smc2017.pdf)
+[PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/407/Atalanti_Mastakouri_final_submission_after_reviews_smc2017.pdf)
 
 Recommended citation:  
 
