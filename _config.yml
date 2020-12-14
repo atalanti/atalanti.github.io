@@ -43,10 +43,10 @@ staticman:
   transforms:
     email                : "md5"
   generatedFields:
-    year:
-      type               : "YYYY"
+    date:
+      type               : "date"
       options:
-        format           : "" #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+        format           : "iso8601" #"iso8601" # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
 atom_feed:
   path                   : # blank (default) uses feed.xml
 
