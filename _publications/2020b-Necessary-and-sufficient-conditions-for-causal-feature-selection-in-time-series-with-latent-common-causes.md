@@ -7,7 +7,7 @@ venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2005.08543'
 ---
 
-[Download paper here](https://arxiv.org/pdf/2005.08543.pdf)
+[PDF](https://arxiv.org/pdf/2005.08543.pdf)
 
 Recommended citation:
 ```Javascript
