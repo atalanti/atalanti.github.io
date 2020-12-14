@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-
-{% include base_path %}
+[curriculum vitae ![CV as pdf]](/assets/Atalanti_Mastakouri_CV.pdf)<br/>
 
 Education
 ======
