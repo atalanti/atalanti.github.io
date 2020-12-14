@@ -7,7 +7,7 @@ venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://proceedings.neurips.cc/paper/2019/hash/e6be4c22a5963ab00dfe8f3b695b5332-Abstract.html'
 ---
 
-[Download paper here](https://proceedings.neurips.cc/paper/2019/file/e6be4c22a5963ab00dfe8f3b695b5332-Paper.pdf)
+[PDF](https://proceedings.neurips.cc/paper/2019/file/e6be4c22a5963ab00dfe8f3b695b5332-Paper.pdf)
 
 Recommended citation:
 ```Javascript
