@@ -2,7 +2,7 @@
 title: "Necessary and sufficient conditions for causal feature selection in time series with latent common causes"
 collection: publications
 permalink: /publication/2020b-Necessary-and-sufficient-conditions-for-causal-feature-selection-in-time-series-with-latent-common-causes
-date: 2020
+date: '2020'
 venue: 'arXiv'
 paperurl: 'https://arxiv.org/abs/2005.08543'
 ---
