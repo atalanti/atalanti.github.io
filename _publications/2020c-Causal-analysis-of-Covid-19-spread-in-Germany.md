@@ -6,8 +6,7 @@ year: 2020
 venue: 'Advances in Neural Information Processing Systems'
 paperurl: 'https://proceedings.neurips.cc/paper/2020/hash/205e73579f21c2ed134dbd6ce7e4a1ea-Abstract.html'
 ---
-
-[Download paper here](https://proceedings.neurips.cc/paper/2020/file/205e73579f21c2ed134dbd6ce7e4a1ea-Paper.pdf)
+[PDF](https://proceedings.neurips.cc/paper/2020/file/205e73579f21c2ed134dbd6ce7e4a1ea-Paper.pdf)
 
 Recommended citation:
 ```Javascript
