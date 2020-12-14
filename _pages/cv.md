@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-[curriculum vitae ![CV as pdf]](/assets/Atalanti_Mastakouri_CV.pdf)<br/>
+[CV as pdf](/assets/Atalanti_Mastakouri_CV.pdf)<br/>
 
 Education
 ======
@@ -52,28 +52,6 @@ National Technical University of Athens (N.T.U.A.) and University of Mental Heal
 Advisors: Dr. Maria Christopoulou, Prof. Konstantina Nikita
 Summary: Co-design and conduct of an EEG psychoacoustic experiment aiming to study the impact of
 cell phones radiation at the auditory function
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-* Causal analysis of Covid-19 Spread in Germany, Atalanti A. Mastakouri, Bernhard Schölkopf, Conference on Neural Information Processing Systems (NeurIPS), 2020  
-
-* Selecting causal brain features with a single conditional independence test per feature, Atalanti A. Mastakouri,
-Bernhard Schölkopf, Dominik Janzing, 33 rd Conference on Neural Information Processing Systems (NeurIPS), 2019  
-
-* Beta Power May Mediate the Effect of Gamma-TACS on Motor Performance, Atalanti A. Mastakouri, Bernhard Schölkopf, Moritz Grosse-Wentrup, 41 st IEEE International Engineering in Medicine and Biology Conference (EMBC), Berlin, Germany 2019  
-
-* Personalized brain-computer interface models for motor rehabilitation, Atalanti A. Mastakouri, Sebastian Weichwald, Ozan Özdenizci, Timm Meyer, Bernhard Schölkopf, Moritz Grosse-Wentrup, IEEE International Conference on Systems, Man, and Cybernetics (SMC), Banff, Alberta, Canada 2017  
-
-Submitted work (under review) - Arxiv
-======
-* Necessary and sufficient conditions for causal feature selection in time series with latent common causes, Ata-
-lanti A. Mastakouri, Bernhard Schölkopf, Dominik Janzing, 2020  
-
-* Stratification of behavioral response to transcranial current stimulation by resting-state electrophysiology, Atalanti A. Mastakouri, 2020  
 
 Service
 ======
