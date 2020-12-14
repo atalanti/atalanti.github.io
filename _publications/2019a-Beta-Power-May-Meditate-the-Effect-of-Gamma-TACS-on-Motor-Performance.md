@@ -2,7 +2,7 @@
 title: "Beta Power May Meditate the Effect of Gamma-TACS on Motor Performance"
 collection: publications
 permalink: /publication/2019a-Beta-Power-May-Meditate-the-Effect-of-Gamma-TACS-on-Motor-Performance
-year: '2019'
+date: 2019-07-25
 venue: '41st Annual International Conference of the IEEE Engineering in Medicine and Biology Society (EMBC)'
 paperurl: 'https://ieeexplore.ieee.org/abstract/document/8856416'
 ---
