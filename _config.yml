@@ -11,10 +11,9 @@ title                    : "Dr. Atalanti A. Mastakouri"
 title_separator          : "-"
 name                     : &name "Atalanti A. Mastakouri"
 description              : &description "Applied Research Scientist at Amazon Research in Tuebingen. Alumni in Empirical Inference department of Max PLanck Institute for Intelligent Systems & University of Tuebingen."
-keywords                 : "causal inference, causal discovery, time series, real data, neuroscience, hidden confounders"
-url                      : "https://ei.is.tuebingen.mpg.de/person/amastakouri" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://atalanti.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "atalanti.github.io"
+repository               : atalanti.github.io
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
