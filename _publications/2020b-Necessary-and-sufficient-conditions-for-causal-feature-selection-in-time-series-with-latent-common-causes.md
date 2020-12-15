@@ -1,7 +1,7 @@
 ---
 title: "Necessary and sufficient conditions for causal feature selection in time series with latent common causes"
 collection: publications
-year: 2020-10-15
+date: 2020-10-15
 venue: 'arXiv'
 ---
 [url](https://arxiv.org/abs/2005.08543)
