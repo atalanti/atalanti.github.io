@@ -1,21 +1,11 @@
 ---
 title: "Necessary and sufficient conditions for causal feature selection in time series with latent common causes"
 collection: publications
-permalink: /publication/2020b-Necessary-and-sufficient-conditions-for-causal-feature-selection-in-time-series-with-latent-common-causes
 year: 2020-10-15
 venue: 'arXiv'
 ---
 [url](https://arxiv.org/abs/2005.08543)
 [PDF](https://arxiv.org/pdf/2005.08543.pdf)
-
-Recommended citation:
-```Javascript
-@article{mastakouri2020necessary,
-  title={Necessary and sufficient conditions for causal feature selection in time series with latent common causes},
-  author={Mastakouri, Atalanti A and Sch{\"o}lkopf, Bernhard and Janzing, Dominik},
-  journal={arXiv preprint arXiv:2005.08543},
-  year={2020}
-}
-
+[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:vr-mNyZHTAoJ:scholar.google.com/&output=citation&scisdr=CgXPVUWVEIuduwQN6Bo:AAGBfm0AAAAAX9gI8BqgUetvtio9A7HLMgsWA_J52RTk&scisig=AAGBfm0AAAAAX9gI8JBcCZfPNTk9A_tKRO1rer29T4Ae&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
 
 ```
