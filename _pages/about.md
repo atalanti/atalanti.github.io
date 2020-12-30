@@ -10,4 +10,4 @@ redirect_from:
 
 About me
 ======
-I am an Applied Research Scientist at Amazon Research in Tuebingen. I recently defended my PhD in the Empirical Inference department of Max PLanck Institute for Intelligent Systems under the supervision of Prof. Bernhard Scholkopf and Dr. Dominik Janzing, on the intersection of causality and neuroscience. My research interests include mainly causal inference and causal discovery methods for noisy, partially observed real world data.
+I am an Applied Research Scientist at Amazon Research in Tuebingen. I recently defended my PhD in the Empirical Inference department of Max PLanck Institute for Intelligent Systems under the supervision of [Prof. Bernhard Scholkopf](https://www.is.mpg.de/~bs) and [Dr. Dominik Janzing](https://www.is.mpg.de/~janzing), on the intersection of causality and neuroscience. Previously I received my Diploma from the school of [Electrical and Computer Engineering at the National Technical University of Athens](https://www.ece.ntua.gr/en). My research interests include mainly causal inference and causal discovery methods for noisy, partially observed real world data.
