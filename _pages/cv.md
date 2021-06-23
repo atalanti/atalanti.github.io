@@ -8,6 +8,10 @@ redirect_from:
 ---
 [CV as pdf](/assets/Atalanti_Mastakouri_CV.pdf)<br/>
 
+Work experience
+======
+* Aplied Research Scientist, Lablets, Amazon Research, T{\"u}bingen, Germany, Causality Group, 01/2021 - Present}
+
 Education
 ======
 * Ph.D in Causal inference, Machine learning and Neuroscience, Max Planck Institute for Intelligent Systems, 2020
@@ -55,8 +59,10 @@ cell phones radiation at the auditory function
 
 Service
 ======
-* Invited Program Chair for IJCAI
+* Invited Program Chair for IJCAI 2020
 * Reviewer for Human Brain Mapping Journal
+* Reviewer for PLOS Biology
+* Reviewer for Neural Information Processing Conference 2021
 * Reviewer for PLOS Biology Journal
 
 Dinstictions
