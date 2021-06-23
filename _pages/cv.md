@@ -10,7 +10,7 @@ redirect_from:
 
 Work experience
 ======
-* Aplied Research Scientist, Lablets, Amazon Research, T{\"u}bingen, Germany, Causality Group, 01/2021 - Present}
+* Aplied Research Scientist, Lablets, Amazon Research, Tuebingen, Germany, Causality Group, 01/2021 - Present
 
 Education
 ======
@@ -74,7 +74,7 @@ Dinstictions
 
 Languages
 ======
-* Greek: Mother tongue  
+* Greek: Native
 * English: Proficient (Cambridge Certificate of Proficiency in English, Michigan Certificate of Proficiency in English)  
 * French: Fluent (Delf B2)  
 * German: Basic  
