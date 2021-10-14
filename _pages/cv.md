@@ -63,7 +63,9 @@ Service
 * Reviewer for Human Brain Mapping Journal
 * Reviewer for PLOS Biology
 * Reviewer for Neural Information Processing Conference 2021
-* Reviewer for PLOS Biology Journal
+* Reviewer for International Conference on Learning Representations 2022
+* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
+* Social Co-Chair for CLeaR 2022
 
 Dinstictions
 ======
