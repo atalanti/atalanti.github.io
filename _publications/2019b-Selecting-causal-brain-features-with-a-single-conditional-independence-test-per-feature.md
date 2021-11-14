@@ -6,4 +6,4 @@ venue: 'Advances in Neural Information Processing Systems'
 ---
 [url](https://proceedings.neurips.cc/paper/2019/hash/e6be4c22a5963ab00dfe8f3b695b5332-Abstract.html)
 [PDF](https://proceedings.neurips.cc/paper/2019/file/e6be4c22a5963ab00dfe8f3b695b5332-Paper.pdf)
-[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:PyrE8oAou_UJ:scholar.google.com/&output=citation&scisdr=CgXPVUWVEIuduwQHWJo:AAGBfm0AAAAAX9gCQJqOlcN-fyr9w5jNqj79oasIeEQl&scisig=AAGBfm0AAAAAX9gCQHEK7-JHrPu8qP_zRcXLdAbdad3m&scisf=4&ct=citation&cd=-1&hl=en&scfhb=1)
+[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:PyrE8oAou_UJ:scholar.google.com/&output=citation&scisdr=CgXPVUX_EMLaohz82EE:AAGBfm0AAAAAYZD6wEFJA58mT3syi8Ii3Wjlp3bquVR8&scisig=AAGBfm0AAAAAYZD6wP0XFyiKdXtdjoMrWwGsZotU723F&scisf=4&ct=citation&cd=-1&hl=de)
