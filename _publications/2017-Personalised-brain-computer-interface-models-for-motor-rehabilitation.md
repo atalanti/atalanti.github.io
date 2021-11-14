@@ -6,4 +6,4 @@ venue: 'IEEE International Conference on Systems, Man, and Cybernetics (SMC), Ba
 ---
 [url](https://ieeexplore.ieee.org/document/8123089)
 [PDF](https://www.is.mpg.de/uploads_file/attachment/attachment/407/Atalanti_Mastakouri_final_submission_after_reviews_smc2017.pdf)
-[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:rFRjZTzwuUQJ:scholar.google.com/&output=citation&scisdr=CgXPVUWVEIuduwQE9Gw:AAGBfm0AAAAAX9gB7GxJj78y6bggf6zmuBVxo7BzLC0G&scisig=AAGBfm0AAAAAX9gB7N-ew2rRunhpfUw3cWjgN6pApydC&scisf=4&ct=citation&cd=-1&hl=en)
+[bibtex](https://scholar.googleusercontent.com/scholar.bib?q=info:rFRjZTzwuUQJ:scholar.google.com/&output=citation&scisdr=CgXPVUX_EMLaohz8X8k:AAGBfm0AAAAAYZD6R8ljNeiff-Xf3Cv73loc6s2h03qP&scisig=AAGBfm0AAAAAYZD6R0tN6rJMcXBo0hNXNX1TcM8SvS6q&scisf=4&ct=citation&cd=-1&hl=de)
