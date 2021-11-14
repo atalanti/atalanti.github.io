@@ -10,7 +10,7 @@ redirect_from:
 
 Work experience
 ======
-* Aplied Research Scientist, Lablets, Amazon Research, Tuebingen, Germany, Causality Group, 01/2021 - Present
+* Applied Scientist, Lablets, Amazon Research, Tuebingen, Germany, Causality Group, 01/2021 - Present
 
 Education
 ======
