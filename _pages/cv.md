@@ -59,17 +59,18 @@ cell phones radiation at the auditory function
 
 Service
 ======
-* Invited Program Chair for IJCAI 2020
-* Reviewer for Human Brain Mapping Journal
-* Reviewer for PLOS Biology
-* Reviewer for Neural Information Processing Conference 2021
-* Reviewer for International Conference on Learning Representations 2022
-* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
-* Invited Talk at Medical Image Processing Lab EPFL, December 2021
 * Social Co-Chair for CLeaR 2022
+* Invited Talk at Medical Image Processing Lab EPFL, December 2021
+* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
+* Reviewer for International Conference on Learning Representations 2022
+* Reviewer for Neural Information Processing Conference 2021
+* Reviewer for PLOS Biology
+* Reviewer for Human Brain Mapping Journal
+* Invited Program Chair for IJCAI 2020
 
 Dinstictions
 ======
+* Selected as "Highlighted Reviewer of ICLR 2022"
 * Personal invitation by the Mathematisches Forschungsinstitut Oberwolfach for the ELLIS Workshop on Interactive Learning and Interventional Representations (Germany, 2020)  
 * Award of 1000 Euros for achieving the highest grade of access in the university (19729/20000 points) in high school, Bank of Eurobank, Athens, Greece  
 * 16th/300 order of entry at the Dept. of Electrical and Computer Engineering of National Technical University of Athens  
