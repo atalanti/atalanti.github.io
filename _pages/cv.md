@@ -59,6 +59,9 @@ cell phones radiation at the auditory function
 
 Service
 ======
+* Social Co-Chair for CLeaR 2023
+* Invited talk at the Workshop for Causal Dynamics, NeurIps 2023, https://sites.google.com/view/caudyn2022/home
+* Reviewer for NeurIps 2023
 * Social Co-Chair for CLeaR 2022
 * Invited Talk at Medical Image Processing Lab EPFL, December 2021
 * Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
