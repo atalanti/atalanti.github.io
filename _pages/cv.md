@@ -59,7 +59,7 @@ cell phones radiation at the auditory function
 
 Talks
 ======
-* Invited talk at Thematic Quarter on Causality - When Causal Inference meets Statistical Analysis, Institute Henri Poincaré, Paris, France, April 18th, 2023
+* Invited talk at Thematic Quarter on Causality - When Causal Inference meets Statistical Analysis, Institute Henri Poincaré, Paris, France, April 18th, 2023, https://quarter-on-causality.github.io/analysis/#schedule 
 * Invited keynote talk at the Workshop for Causal Dynamics, NeurIps 2023, https://sites.google.com/view/caudyn2022/home
 * Invited Talk at Medical Image Processing Lab EPFL, December 2021
 * Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
