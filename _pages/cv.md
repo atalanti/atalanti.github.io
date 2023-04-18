@@ -57,15 +57,19 @@ Advisors: Dr. Maria Christopoulou, Prof. Konstantina Nikita
 Summary: Co-design and conduct of an EEG psychoacoustic experiment aiming to study the impact of
 cell phones radiation at the auditory function
 
+Talks
+======
+* Invited talk at Thematic Quarter on Causality - When Causal Inference meets Statistical Analysis, Institute Henri Poincaré, Paris, France, April 18th, 2023
+* Invited keynote talk at the Workshop for Causal Dynamics, NeurIps 2023, https://sites.google.com/view/caudyn2022/home
+* Invited Talk at Medical Image Processing Lab EPFL, December 2021
+* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
+
 Service
 ======
 * Reviewer for Nature Communications
 * Social Co-Chair for CLeaR 2023
-* Invited keynote talk at the Workshop for Causal Dynamics, NeurIps 2023, https://sites.google.com/view/caudyn2022/home
 * Reviewer for NeurIps 2023
 * Social Co-Chair for CLeaR 2022
-* Invited Talk at Medical Image Processing Lab EPFL, December 2021
-* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
 * Reviewer for International Conference on Learning Representations 2022
 * Reviewer for Neural Information Processing Conference 2021
 * Reviewer for PLOS Biology
