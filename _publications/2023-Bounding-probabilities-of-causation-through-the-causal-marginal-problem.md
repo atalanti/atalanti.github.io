@@ -4,8 +4,5 @@ collection: publications
 date: 2023-04-04
 venue: 'ArXiv'
 ---
-[url]([https://arxiv.org/abs/2304.02023]([https://arxiv.org/abs/2206.06821](https://arxiv.org/abs/2304.02023)))
-[PDF]([https://arxiv.org/pdf/2304.02023.pdf](https://arxiv.org/pdf/2304.02023.pdf))
-
-
-```
+[url](https://arxiv.org/abs/2304.02023)
+[PDF](https://arxiv.org/pdf/2304.02023.pdf)
