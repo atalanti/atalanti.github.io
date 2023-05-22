@@ -27,6 +27,37 @@ Michmizos, Harvard Medical School, doctoral Associate at MIT
 Statistical Parametric Maps method and computation of the functional connectivity at the sensor space
 with Phase Locking Value method
 
+Talks
+======
+* Invited talk at Thematic Quarter on Causality - [When Causal Inference meets Statistical Analysis](https://quarter-on-causality.github.io/analysis/#schedule), Institute Henri Poincaré, Paris, France, April 18th, 2023
+* Invited keynote talk at the [Workshop for Causal Dynamics](https://sites.google.com/view/caudyn2022/home), NeurIps 2023
+* Invited Talk at Medical Image Processing Lab EPFL, December 2021
+* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
+
+Service
+======
+* Reviewer for Nature Communications
+* Social Co-Chair for CLeaR 2023
+* Reviewer for NeurIps 2023
+* Social Co-Chair for CLeaR 2022
+* Reviewer for International Conference on Learning Representations 2022
+* Reviewer for Neural Information Processing Conference 2021
+* Reviewer for PLOS Biology
+* Reviewer for Human Brain Mapping Journal
+* Invited Program Chair for IJCAI 2020
+
+Dinstictions
+======
+* Invitation to contribute a book chapter for Causal Inference on time series
+* Selected as “Highlighted Reviewer of ICLR 2022”
+* [3rd most read paper](https://www.amazon.science/latest-news/the-10-most-read-research-papers-of-2021) across Amazon for 2021
+* [5th most read science blog](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021) across Amazon for 2021
+* Personal invitation by the Mathematisches Forschungsinstitut Oberwolfach for the ELLIS Workshop on Interactive Learning and Interventional Representations (Germany, 2020)  
+* Award of 1000 Euros for achieving the highest grade of access in the university (19729/20000 points) in high school, Bank of Eurobank, Athens, Greece  
+* 16th/300 order of entry at the Dept. of Electrical and Computer Engineering of National Technical University of Athens  
+* 14th/466 order of graduation from the Dept. of Electrical and Computer Engineering of the National Technical University of Athens (top 3%)
+
+
 Corporate Research Experience
 ======
 * 10/2019 - 03/2020: Applied Research Intern
@@ -56,36 +87,6 @@ National Technical University of Athens (N.T.U.A.) and University of Mental Heal
 Advisors: Dr. Maria Christopoulou, Prof. Konstantina Nikita
 Summary: Co-design and conduct of an EEG psychoacoustic experiment aiming to study the impact of
 cell phones radiation at the auditory function
-
-Talks
-======
-* Invited talk at Thematic Quarter on Causality - When Causal Inference meets Statistical Analysis, Institute Henri Poincaré, Paris, France, April 18th, 2023, https://quarter-on-causality.github.io/analysis/#schedule 
-* Invited keynote talk at the Workshop for Causal Dynamics, NeurIps 2023, https://sites.google.com/view/caudyn2022/home
-* Invited Talk at Medical Image Processing Lab EPFL, December 2021
-* Invited Talk at Copenhagen Causality Lab (CoCaLa), April 2021
-
-Service
-======
-* Reviewer for Nature Communications
-* Social Co-Chair for CLeaR 2023
-* Reviewer for NeurIps 2023
-* Social Co-Chair for CLeaR 2022
-* Reviewer for International Conference on Learning Representations 2022
-* Reviewer for Neural Information Processing Conference 2021
-* Reviewer for PLOS Biology
-* Reviewer for Human Brain Mapping Journal
-* Invited Program Chair for IJCAI 2020
-
-Dinstictions
-======
-* Invitation to contribute a book chapter for Causal Inference on time series
-* Selected as “Highlighted Reviewer of ICLR 2022”
-* [3rd most read paper](https://www.amazon.science/latest-news/the-10-most-read-research-papers-of-2021) across Amazon for 2021
-* [5th most read science blog](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021) across Amazon for 2021
-* Personal invitation by the Mathematisches Forschungsinstitut Oberwolfach for the ELLIS Workshop on Interactive Learning and Interventional Representations (Germany, 2020)  
-* Award of 1000 Euros for achieving the highest grade of access in the university (19729/20000 points) in high school, Bank of Eurobank, Athens, Greece  
-* 16th/300 order of entry at the Dept. of Electrical and Computer Engineering of National Technical University of Athens  
-* 14th/466 order of graduation from the Dept. of Electrical and Computer Engineering of the National Technical University of Athens (top 3%)
 
 Languages
 ======
