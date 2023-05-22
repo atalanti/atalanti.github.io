@@ -78,7 +78,10 @@ Service
 
 Dinstictions
 ======
-* Selected as "Highlighted Reviewer of ICLR 2022"
+* Invitation to contribute a book chapter for Causal Inference on time series
+* Selected as “Highlighted Reviewer of ICLR 2022”
+* [3rd most read paper](https://www.amazon.science/latest-news/the-10-most-read-research-papers-of-2021) across Amazon for 2021
+* [5th most read science blog](https://www.amazon.science/latest-news/the-top-amazon-science-blog-posts-of-2021) across Amazon for 2021
 * Personal invitation by the Mathematisches Forschungsinstitut Oberwolfach for the ELLIS Workshop on Interactive Learning and Interventional Representations (Germany, 2020)  
 * Award of 1000 Euros for achieving the highest grade of access in the university (19729/20000 points) in high school, Bank of Eurobank, Athens, Greece  
 * 16th/300 order of entry at the Dept. of Electrical and Computer Engineering of National Technical University of Athens  
