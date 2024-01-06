@@ -48,6 +48,7 @@ Talks
 
 Service
 ======
+* Co-organizer of the [Workshop in Causal Representation Learning](https://crl-workshop.github.io/) at Neurips 2023
 * Reviewer for Nature Communications
 * Social Co-Chair for CLeaR 2023
 * Reviewer for NeurIps 2023
